@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Simon Grundt Straubinger</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Grundt Straubinger 2020</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Do Tax-Benefit Packages Treat Families in the Same Manner When Unemployment Strikes?</title>
+      <link>/publication/unemployment2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/unemployment2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement Validity in Comparative Welfare State Research: The Case of Measuring Welfare State Generosity</title>
+      <link>/publication/measurement2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/measurement2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediernes formidling af meningsmålinger: Indholdsanalyse af folketingsvalg, 2005-2011</title>
+      <link>/publication/meningsmaalinger2012/</link>
+      <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/meningsmaalinger2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
