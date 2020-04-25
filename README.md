@@ -1,4 +1,4 @@
-# straubinger.netlify.com
+# straubinger.netlify.app
 
 Personal website and blog built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), with the [Academic](https://sourcethemes.com/academic/) theme. Deployed using [Netlify](https://www.netlify.com/).
 
