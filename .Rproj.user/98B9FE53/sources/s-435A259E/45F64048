@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588257519591.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "45F64048",
+    "lastKnownWriteTime" : 1588257573,
+    "last_content_update" : 1588257573837,
+    "path" : "~/GitHub/website/content/project/2020-02-23_lix_pm_dk/index.Rmd",
+    "project_path" : "content/project/2020-02-23_lix_pm_dk/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,58",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

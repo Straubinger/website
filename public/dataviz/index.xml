@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datavizs | Simon Grundt Straubinger</title>
+    <link>/dataviz/</link>
+      <atom:link href="/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datavizs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Grundt Straubinger, 2020</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Datavizs</title>
+      <link>/dataviz/</link>
+    </image>
+    
+    <item>
+      <title>Mobility in Denmark during COVID-19</title>
+      <link>/dataviz/2020-04-30_corona_mobility/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/dataviz/2020-04-30_corona_mobility/</guid>
+      <description>
+
+
+&lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_apple_mobility.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility_regions.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Readability scores of speeches delivered by the Danish PM</title>
+      <link>/dataviz/2020-02-23_lix_pm_dk/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/dataviz/2020-02-23_lix_pm_dk/</guid>
+      <description>
+
+
+&lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_newyear.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_openparl.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+---
+title: "Mobility in Denmark during COVID-19"
+summary: "Mobility in Denmark and Danish regions during COVID-19 according to Google and Apple data"
+author: "Simon Grundt Straubinger"
+date: 2020-04-30
+image:
+  preview_only: true
+#categories: ["R"]
+#tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz).
+
+![](/dataviz/2020-04-30_corona_mobility/plot_google_mobility.png)
+
+![](/dataviz/2020-04-30_corona_mobility/plot_apple_mobility.png)
+
+![](/dataviz/2020-04-30_corona_mobility/plot_google_mobility_regions.png)
