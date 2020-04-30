@@ -21,6 +21,7 @@
 
 
 &lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Data is from &lt;a href=&#34;https://www.google.com/covid19/mobility/&#34;&gt;Google Community Mobility Reports&lt;/a&gt; and &lt;a href=&#34;https://www.apple.com/covid19/mobility&#34;&gt;Apple Mobility Trends Reports&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_apple_mobility.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility_regions.png&#34; /&gt;&lt;/p&gt;
@@ -36,6 +37,7 @@
 
 
 &lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Data is from &lt;a href=&#34;https://github.com/Straubinger/lix&#34;&gt;github.com/Straubinger/lix&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_newyear.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_openparl.png&#34; /&gt;&lt;/p&gt;
 </description>
