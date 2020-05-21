@@ -78,9 +78,9 @@
     
     <item>
       <title>Hvad koster de danske mønter?</title>
-      <link>/post/2020-05-21_coins/</link>
+      <link>/post/2020-05-21_dkk_coins/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-05-21_coins/</guid>
+      <guid>/post/2020-05-21_dkk_coins/</guid>
       <description>
 
 
@@ -141,9 +141,9 @@
 &lt;/table&gt;
 &lt;p&gt;Der er risiko for, at gamle cirkulerende mønter kan opnå en højere reel værdi end den nominelle værdi, som står påtrykt dem. Grunden til at metalværdien på længere sigt overstiger den nominelle værdi skyldes forskellige faktorer forbundet til udbud og efterspørgsel. Men der er særlig én faktor som gør, at de to værdier altid vil nærme sig hinanden, og det er inflation. Inflation udhuler penges købekraft (den nominelle værdi) og hæver prisen på håndgribelige aktiver (metalværdien). Er spændet mellem den nominelle og reelle værdi ikke stort nok fra starten, vil metalværdien overgå den nominelle værdi på sigt, eller også vil mønterne blive taget ud af cirkulation. Det var tilfældet med den &lt;a href=&#34;https://edition.cnn.com/2012/03/30/business/canada-penny/&#34;&gt;canadiske penny&lt;/a&gt;, som kostede 60 pct. mere at producere end den pålydende værdi.&lt;/p&gt;
 &lt;p&gt;De danske mønters metalværdi fra januar 1990 til april 2020 fremgår af grafen herunder. Data er beregnet på baggrund af mønternes metalsammensætning samt de &lt;a href=&#34;https://www.imf.org/en/Research/commodity-prices&#34;&gt;månedlige råstofpriser&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-05-17_coins/index_files/figure-html/melt%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-05-21_dkk_coins/index_files/figure-html/melt%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Metalværdierne følger hinanden ganske tæt gennem hele perioden, da alle mønterne hovedsageligt består af kobber. Det største udsving kan observeres op til og under finanskrisen 2007-2008. Her steg råstofpriserne eksplosivt, hvorefter de faldt lige så drastisk igen. Det var især gældende for nikkelpriserne, hvilket ses afspejlet i metalværdierne for 1-, 2- og 5-kronen. Mønten med den højeste metalværdi er 5-kronen, som da den peakede kostede næsten 1 krone at producere. Det skyldes, at den med 9,2 gram er den tungeste mønt efter 20-kronen samt består af 25 pct. nikkel, som indtil 2010 var det dyreste af metallerne nu kun overgået af tin. Nedenstående graf viser, hvor stor en procentdel mønternes metalværdi udgør af den nominelle værdi.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-05-17_coins/index_files/figure-html/melt%20value%20vs.%20nominal%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-05-21_dkk_coins/index_files/figure-html/melt%20value%20vs.%20nominal%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Ikke overraskende findes der en negativ sammenhæng mellem den nominelle værdi, og hvor stor en andel metalværdien udgør af denne. På sit højeste udgjorde metalværdien af 20-kronen kun 2,5 pct. af den nominelle værdi, hvorimod metalværdien af 25-øren har udgjort hele 60 pct. af den nominelle værdi. Som det kan ses har 25-ørens metalværdi dog aldrig som ved den canadisk penny oversteget dens nominelle værdi.&lt;/p&gt;
 </description>
     </item>
