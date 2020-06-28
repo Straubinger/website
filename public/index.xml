@@ -77,6 +77,20 @@
     </item>
     
     <item>
+      <title>Generations</title>
+      <link>/project/2020-06-28_generations/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/2020-06-28_generations/</guid>
+      <description>
+
+
+&lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Data is from &lt;a href=&#34;https://www.statbank.dk/statbank5a/default.asp?w=1920&#34;&gt;Statistics Denmark&lt;/a&gt;, FOLK3 table.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/dataviz/2020-06-28_generations/plot_generations.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hvad koster de danske mønter?</title>
       <link>/post/2020-05-21_dkk_coins/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>

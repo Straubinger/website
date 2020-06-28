@@ -1,0 +1,20 @@
+---
+title: "Generations"
+summary: "Number and share of people in each generation in Denmark"
+author: "Simon Grundt Straubinger"
+date: 2020-06-28
+image:
+  preview_only: true
+#categories: ["R"]
+#tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz).
+
+Data is from [Statistics Denmark](https://www.statbank.dk/statbank5a/default.asp?w=1920), FOLK3 table.
+
+![](/dataviz/2020-06-28_generations/plot_generations.png)
