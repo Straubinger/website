@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/website/content/authors/admin",
-    "sortOrder" : [
+    "path": "~/GitHub/website/content/authors/admin",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "ascending": true,
+            "columnIndex": 2
         }
     ]
 }
