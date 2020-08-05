@@ -5,6 +5,11 @@ author: "Simon Grundt Straubinger"
 date: 2020-04-30
 image:
   preview_only: true
+links:
+ - name: code
+   url: https://github.com/Straubinger/dataviz/blob/master/02_corona_mobility/corona_mobility.R
+   icon_pack: fab
+   icon: github
 #categories: ["R"]
 #tags: ["R Markdown", "plot", "regression"]
 ---

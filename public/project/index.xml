@@ -20,8 +20,8 @@
       <description>
 
 
-&lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Data is from &lt;a href=&#34;https://www.statbank.dk/statbank5a/default.asp?w=1920&#34;&gt;Statistics Denmark&lt;/a&gt;, FOLK3 table.&lt;/p&gt;
+&lt;!-- All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz). --&gt;
+&lt;!-- Data is from [Statistics Denmark](https://www.statbank.dk/statbank5a/default.asp?w=1920), FOLK3 table. --&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-06-28_generations/plot_generations.png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
@@ -50,8 +50,8 @@
       <description>
 
 
-&lt;p&gt;All data visualizations are made with R and &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt;. Code can be found on &lt;a href=&#34;https://github.com/Straubinger/dataviz&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Data is from &lt;a href=&#34;https://github.com/Straubinger/lix&#34;&gt;github.com/Straubinger/lix&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz). --&gt;
+&lt;!-- Data is from [github.com/Straubinger/lix]( https://github.com/Straubinger/lix). --&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_newyear.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_openparl.png&#34; /&gt;&lt;/p&gt;
 </description>

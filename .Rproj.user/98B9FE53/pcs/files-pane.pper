@@ -1,9 +1,9 @@
 {
-    "path": "~/GitHub/website/content/authors/admin",
+    "path": "~/GitHub/website/content/project/2020-04-30_corona_mobility",
     "sortOrder": [
         {
-            "ascending": true,
-            "columnIndex": 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
