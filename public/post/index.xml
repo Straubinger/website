@@ -17,13 +17,11 @@
       <link>/post/2020-05-21_dkk_coins/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020-05-21_dkk_coins/</guid>
-      <description>
-
-
-&lt;p&gt;En mønt har to værdier: den nominelle værdi, som er fastsat af den udstedende nationalbank, og metalværdien, som er bestemt af de internationale råstofpriser. Man kan tage den danske 1-krone som eksempel. Den vejer 3,6 gram og er fremstillet af kobbernikkel, som er en legering bestående af 75 pct. kobber og 25 pct. nikkel. Den gennemsnitlige kobberpris i april 2020 var ≈3 øre/gram, mens nikkelprisen var ≈8 øre/gram. Metalværdien for en dansk 1-krone i april 2020 var dermed ≈17 øre. Herunder fremgår vægten og metalsammensætningen for den seneste &lt;a href=&#34;http://www.nationalbanken.dk/da/sedlerogmoenter/danske_moenter/Sider/default.aspx&#34;&gt;danske møntserie&lt;/a&gt;, som blev sat i cirkulation. I oktober 2008 blev 25-øren taget ud af cirkulation.&lt;/p&gt;
+      <description>&lt;p&gt;En mønt har to værdier: den nominelle værdi, som er fastsat af den udstedende nationalbank, og metalværdien, som er bestemt af de internationale råstofpriser. Man kan tage den danske 1-krone som eksempel. Den vejer 3,6 gram og er fremstillet af kobbernikkel, som er en legering bestående af 75 pct. kobber og 25 pct. nikkel. Den gennemsnitlige kobberpris i april 2020 var ≈3 øre/gram, mens nikkelprisen var ≈8 øre/gram. Metalværdien for en dansk 1-krone i april 2020 var dermed ≈17 øre. Herunder fremgår vægten og metalsammensætningen for den seneste 
+&lt;a href=&#34;http://www.nationalbanken.dk/da/sedlerogmoenter/danske_moenter/Sider/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;danske møntserie&lt;/a&gt;, som blev sat i cirkulation. I oktober 2008 blev 25-øren taget ud af cirkulation.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
-&lt;tr class=&#34;header&#34;&gt;
+&lt;tr&gt;
 &lt;th&gt;Mønt&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Vægt&lt;/th&gt;
 &lt;th&gt;Legering&lt;/th&gt;
@@ -31,43 +29,43 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr class=&#34;odd&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;25-øre&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;2,8g&lt;/td&gt;
 &lt;td&gt;tinbronze&lt;/td&gt;
 &lt;td&gt;97 % kobber&lt;br&gt;0,5 % tin&lt;br&gt;2,5 % zink&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;50-øre&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;4,3g&lt;/td&gt;
 &lt;td&gt;tinbronze&lt;/td&gt;
 &lt;td&gt;97 % kobber&lt;br&gt;0,5 % tin&lt;br&gt;2,5 % zink&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;1-krone&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;3,6g&lt;/td&gt;
 &lt;td&gt;kobbernikkel&lt;/td&gt;
 &lt;td&gt;75 % kobber&lt;br&gt;25 % nikkel&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;2-krone&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;5,9g&lt;/td&gt;
 &lt;td&gt;kobbernikkel&lt;/td&gt;
 &lt;td&gt;75 % kobber&lt;br&gt;25 % nikkel&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;5-krone&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;9,2g&lt;/td&gt;
 &lt;td&gt;kobbernikkel&lt;/td&gt;
 &lt;td&gt;92 % kobber&lt;br&gt;2,0 % nikkel&lt;br&gt;6,0 % aluminium&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;10-krone&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;7,0g&lt;/td&gt;
 &lt;td&gt;kobbernikkel&lt;/td&gt;
 &lt;td&gt;92 % kobber&lt;br&gt;2,0 % nikkel&lt;br&gt;6,0 % aluminium&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
+&lt;tr&gt;
 &lt;td&gt;20-krone&lt;/td&gt;
 &lt;td align=&#34;right&#34;&gt;9,3g&lt;/td&gt;
 &lt;td&gt;kobbernikkel&lt;/td&gt;
@@ -75,11 +73,85 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Der er risiko for, at gamle cirkulerende mønter kan opnå en højere reel værdi end den nominelle værdi, som står påtrykt dem. Grunden til at metalværdien på længere sigt overstiger den nominelle værdi skyldes forskellige faktorer forbundet til udbud og efterspørgsel. Men der er særlig én faktor som gør, at de to værdier altid vil nærme sig hinanden, og det er inflation. Inflation udhuler penges købekraft (den nominelle værdi) og hæver prisen på håndgribelige aktiver (metalværdien). Er spændet mellem den nominelle og reelle værdi ikke stort nok fra starten, vil metalværdien overgå den nominelle værdi på sigt, eller også vil mønterne blive taget ud af cirkulation. Det var tilfældet med den &lt;a href=&#34;https://edition.cnn.com/2012/03/30/business/canada-penny/&#34;&gt;canadiske penny&lt;/a&gt;, som kostede 60 pct. mere at producere end den pålydende værdi.&lt;/p&gt;
-&lt;p&gt;De danske mønters metalværdi fra januar 1990 til april 2020 fremgår af grafen herunder. Data er beregnet på baggrund af mønternes metalsammensætning samt de &lt;a href=&#34;https://www.imf.org/en/Research/commodity-prices&#34;&gt;månedlige råstofpriser&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-05-21_dkk_coins/index_files/figure-html/melt%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Der er risiko for, at gamle cirkulerende mønter kan opnå en højere reel værdi end den nominelle værdi, som står påtrykt dem. Grunden til at metalværdien på længere sigt overstiger den nominelle værdi skyldes forskellige faktorer forbundet til udbud og efterspørgsel. Men der er særlig én faktor som gør, at de to værdier altid vil nærme sig hinanden, og det er inflation. Inflation udhuler penges købekraft (den nominelle værdi) og hæver prisen på håndgribelige aktiver (metalværdien). Er spændet mellem den nominelle og reelle værdi ikke stort nok fra starten, vil metalværdien overgå den nominelle værdi på sigt, eller også vil mønterne blive taget ud af cirkulation. Det var tilfældet med den 
+&lt;a href=&#34;https://edition.cnn.com/2012/03/30/business/canada-penny/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;canadiske penny&lt;/a&gt;, som kostede 60 pct. mere at producere end den pålydende værdi.&lt;/p&gt;
+&lt;p&gt;De danske mønters metalværdi fra januar 1990 til april 2020 fremgår af grafen herunder. Data er beregnet på baggrund af mønternes metalsammensætning samt de 
+&lt;a href=&#34;https://www.imf.org/en/Research/commodity-prices&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;månedlige råstofpriser&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-05-21_dkk_coins/plot_coins_value_hu58662629120260ffe937de9bd5a37329_91392_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-05-21_dkk_coins/plot_coins_value_hu58662629120260ffe937de9bd5a37329_91392_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2100&#34; height=&#34;2400&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Metalværdierne følger hinanden ganske tæt gennem hele perioden, da alle mønterne hovedsageligt består af kobber. Det største udsving kan observeres op til og under finanskrisen 2007-2008. Her steg råstofpriserne eksplosivt, hvorefter de faldt lige så drastisk igen. Det var især gældende for nikkelpriserne, hvilket ses afspejlet i metalværdierne for 1-, 2- og 5-kronen. Mønten med den højeste metalværdi er 5-kronen, som da den peakede kostede næsten 1 krone at producere. Det skyldes, at den med 9,2 gram er den tungeste mønt efter 20-kronen samt består af 25 pct. nikkel, som indtil 2010 var det dyreste af metallerne nu kun overgået af tin. Nedenstående graf viser, hvor stor en procentdel mønternes metalværdi udgør af den nominelle værdi.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-05-21_dkk_coins/index_files/figure-html/melt%20value%20vs.%20nominal%20value%20of%20coins-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-05-21_dkk_coins/plot_coins_pct_hu43f8f83089e2086679eb8ddc2517b73c_107912_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-05-21_dkk_coins/plot_coins_pct_hu43f8f83089e2086679eb8ddc2517b73c_107912_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2100&#34; height=&#34;2400&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Ikke overraskende findes der en negativ sammenhæng mellem den nominelle værdi, og hvor stor en andel metalværdien udgør af denne. På sit højeste udgjorde metalværdien af 20-kronen kun 2,5 pct. af den nominelle værdi, hvorimod metalværdien af 25-øren har udgjort hele 60 pct. af den nominelle værdi. Som det kan ses har 25-ørens metalværdi dog aldrig som ved den canadisk penny oversteget dens nominelle værdi.&lt;/p&gt;
 </description>
     </item>
@@ -89,78 +161,46 @@
       <link>/post/2020-04-19_apsrdesign/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020-04-19_apsrdesign/</guid>
-      <description>
-
-
-&lt;p&gt;How has the design trends of scientific papers developed through the last 350 years? That was the question addressed by an interesting &lt;a href=&#34;https://paperpile.com/blog/the-beauty-of-scientific-papers-design-trends-of-the-past-350-years/&#34;&gt;Paperpile blog post&lt;/a&gt; some years ago. The journals explored however were mainly from the natural sciences. Here we turn to the social sciences by looking at one of the best known political science journals among students and researchers alike: &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review&#34;&gt;The American Political Science Review&lt;/a&gt; (APSR). The journal has been published continuously since 1906 covering various subfields throughout the discipline and is according to &lt;a href=&#34;https://scholar.google.dk/citations?view_op=top_venues&amp;amp;hl=da&amp;amp;vq=soc_politicalscience&#34;&gt;various&lt;/a&gt; &lt;a href=&#34;https://www.scimagojr.com/journalrank.php?category=3312&amp;amp;area=3300&amp;amp;type=j&#34;&gt;metrics&lt;/a&gt; currently one of the highest ranked political science journals. Below are the first and latest designs of APSR papers and front pages presented along with the most significant redesigns in between.&lt;/p&gt;
-&lt;div id=&#34;papers&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Papers&lt;/h2&gt;
+      <description>&lt;p&gt;How has the design trends of scientific papers developed through the last 350 years? That was the question addressed by an interesting 
+&lt;a href=&#34;https://paperpile.com/blog/the-beauty-of-scientific-papers-design-trends-of-the-past-350-years/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paperpile blog post&lt;/a&gt; some years ago. The journals explored however were mainly from the natural sciences. Here we turn to the social sciences by looking at one of the best known political science journals among students and researchers alike: 
+&lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The American Political Science Review&lt;/a&gt; (APSR). The journal has been published continuously since 1906 covering various subfields throughout the discipline and is according to 
+&lt;a href=&#34;https://scholar.google.dk/citations?view_op=top_venues&amp;amp;hl=da&amp;amp;vq=soc_politicalscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;various&lt;/a&gt; 
+&lt;a href=&#34;https://www.scimagojr.com/journalrank.php?category=3312&amp;amp;area=3300&amp;amp;type=j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;metrics&lt;/a&gt; currently one of the highest ranked political science journals. Below are the first and latest designs of APSR papers and front pages presented along with the most significant redesigns in between.&lt;/p&gt;
+&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
 &lt;p&gt;The first redesign of the journal came in 1960 with the change from a simple, one-column format to a more dense, two-column layout. The next came in 1978 when the abstract where introduced. As an interesting side note, all of the main journals explored in the Paperpile blog post, Phil. Trans., PNAS and Nature, introduced the abstract in the 1970s as well. Besides a very memorable type of heading the redesign of 1986 saw the first use of drop caps in the journal. The change of heading and typography in 1992 almost led to the current design of the APSR which came only four years later with an additional change in heading.&lt;/p&gt;
-&lt;div id=&#34;section&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1906&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1906.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-1&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1960&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1960.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-2&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1978&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1978.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-3&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1986&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1986.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-4&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1992&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1992.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-5&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1996&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1996.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;front-pages&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Front pages&lt;/h2&gt;
-&lt;p&gt;There has been a couple of more redesigns of the front page than of the papers in the journal’s history. In the first seven decades the table of contents appeared on the front page and the three redesigns in those decades primarily featured typography variations, mainly in the title. The first of those redesigns was the most noticeable with a classic 1950s style title. In 1978 the table of contents where removed from the front page which remained so to the beginning of the new millennium. The major redesign of 2002 saw the return of the table of contents along with the first front page in color. In 2009 a cover photo was introduced, keying into the theme of the first article of the issue. The current, plain design introduced in 2018 eliminated the table of contents, cover photo and the idea of having a lead article. According to the &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/notes-from-the-editors/94F9A16308ED5BDE2F35E27760C1FF2C&#34;&gt;&lt;em&gt;Notes from the the Editors&lt;/em&gt;&lt;/a&gt; from the the first issue of 2018 “[…] the cover of the &lt;em&gt;APSR&lt;/em&gt; should reflect our scientific identity rather than one of a striking magazine.”&lt;/p&gt;
-&lt;div id=&#34;section-6&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1906&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1906.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-7&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1952&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1952.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-8&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1966&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1966.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-9&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1971&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1971.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-10&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1978&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1978.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-11&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;1992&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1992.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-12&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;2002&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2002.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-13&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;2009&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2009.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-14&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;2018&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2018.png&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;h3 id=&#34;1906&#34;&gt;1906&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1906.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1960&#34;&gt;1960&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1960.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1978&#34;&gt;1978&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1978.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1986&#34;&gt;1986&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1986.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1992&#34;&gt;1992&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1992.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1996&#34;&gt;1996&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/1996.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;front-pages&#34;&gt;Front pages&lt;/h2&gt;
+&lt;p&gt;There has been a couple of more redesigns of the front page than of the papers in the journal’s history. In the first seven decades the table of contents appeared on the front page and the three redesigns in those decades primarily featured typography variations, mainly in the title. The first of those redesigns was the most noticeable with a classic 1950s style title. In 1978 the table of contents where removed from the front page which remained so to the beginning of the new millennium. The major redesign of 2002 saw the return of the table of contents along with the first front page in color. In 2009 a cover photo was introduced, keying into the theme of the first article of the issue. The current, plain design introduced in 2018 eliminated the table of contents, cover photo and the idea of having a lead article. According to the 
+&lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/notes-from-the-editors/94F9A16308ED5BDE2F35E27760C1FF2C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Notes from the the Editors&lt;/em&gt;&lt;/a&gt; from the the first issue of 2018 &amp;ldquo;[&amp;hellip;] the cover of the &lt;em&gt;APSR&lt;/em&gt; should reflect our scientific identity rather than one of a striking magazine.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;1906-1&#34;&gt;1906&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1906.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1952&#34;&gt;1952&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1952.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1966&#34;&gt;1966&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1966.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1971&#34;&gt;1971&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1971.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1978-1&#34;&gt;1978&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1978.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1992-1&#34;&gt;1992&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-1992.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2002&#34;&gt;2002&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2002.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2009&#34;&gt;2009&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2009.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-19_apsrdesign/front-2018.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

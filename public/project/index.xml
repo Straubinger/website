@@ -5,12 +5,94 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Grundt Straubinger, 2020</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Grundt Straubinger, 2020</copyright><lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Districts of Copenhagen</title>
+      <link>/project/2020-10-04_cph_districts/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/2020-10-04_cph_districts/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-10-04_cph_districts/plot_cph_pop_huaa3949b5245bcd07e3837eefcf1036c3_413333_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-10-04_cph_districts/plot_cph_pop_huaa3949b5245bcd07e3837eefcf1036c3_413333_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7200&#34; height=&#34;4200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-10-04_cph_districts/plot_cph_income_hub6293a344f1bfd230f495a9a79015b0d_485891_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-10-04_cph_districts/plot_cph_income_hub6293a344f1bfd230f495a9a79015b0d_485891_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7200&#34; height=&#34;4200&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Generations</title>
@@ -20,9 +102,40 @@
       <description>
 
 
-&lt;!-- All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz). --&gt;
-&lt;!-- Data is from [Statistics Denmark](https://www.statbank.dk/statbank5a/default.asp?w=1920), FOLK3 table. --&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-06-28_generations/plot_generations.png&#34; /&gt;&lt;/p&gt;
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-06-28_generations/plot_generations_hu1d69cc98f29f1775148b2511e1ad77c1_75722_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-06-28_generations/plot_generations_hu1d69cc98f29f1775148b2511e1ad77c1_75722_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3300&#34; height=&#34;1800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
@@ -34,11 +147,114 @@
       <description>
 
 
-&lt;!-- All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz). --&gt;
-&lt;!-- Data is from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) and [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility). --&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility.png&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_apple_mobility.png&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-04-30_corona_mobility/plot_google_mobility_regions.png&#34; /&gt;&lt;/p&gt;
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-04-30_corona_mobility/plot_google_mobility_hu436bc2936cec4ee081b5bb432da36499_89346_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-04-30_corona_mobility/plot_google_mobility_hu436bc2936cec4ee081b5bb432da36499_89346_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2700&#34; height=&#34;1500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-04-30_corona_mobility/plot_apple_mobility_hu36120c75b28553469b660d211f5938c4_77504_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-04-30_corona_mobility/plot_apple_mobility_hu36120c75b28553469b660d211f5938c4_77504_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2700&#34; height=&#34;1500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-04-30_corona_mobility/plot_google_mobility_regions_hu4974524ed8f094204173414b96e7decd_147726_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-04-30_corona_mobility/plot_google_mobility_regions_hu4974524ed8f094204173414b96e7decd_147726_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1800&#34; height=&#34;2700&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
@@ -50,10 +266,77 @@
       <description>
 
 
-&lt;!-- All data visualizations are made with R and [ggplot2](https://ggplot2.tidyverse.org/). Code can be found on [GitHub](https://github.com/Straubinger/dataviz). --&gt;
-&lt;!-- Data is from [github.com/Straubinger/lix]( https://github.com/Straubinger/lix). --&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_newyear.png&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/dataviz/2020-02-23_lix_pm_dk/plot_lix_pm_openparl.png&#34; /&gt;&lt;/p&gt;
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-02-23_lix_pm_dk/plot_lix_pm_newyear_hu81b54d6010314d35535e23f1c0c88c8b_233026_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-02-23_lix_pm_dk/plot_lix_pm_newyear_hu81b54d6010314d35535e23f1c0c88c8b_233026_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3300&#34; height=&#34;1800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure--enlarge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/2020-02-23_lix_pm_dk/plot_lix_pm_openparl_hu79ca22acd9242dfb9ec41852a3295d53_238596_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;👆 enlarge&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/2020-02-23_lix_pm_dk/plot_lix_pm_openparl_hu79ca22acd9242dfb9ec41852a3295d53_238596_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3300&#34; height=&#34;1800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    👆 enlarge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
