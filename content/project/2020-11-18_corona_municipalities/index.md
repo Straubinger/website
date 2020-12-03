@@ -21,3 +21,5 @@ links:
 {{< figure src="plot_corona_line.png" title="👆 enlarge" lightbox="true" >}}
 
 {{< figure src="plot_corona_heat.png" title="👆 enlarge" lightbox="true" >}}
+
+{{< figure src="plot_corona_scatter.png" title="👆 enlarge" lightbox="true" >}}
