@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 in the Danish municipalities"
+title: "COVID-19 in the Danish municipalities, fall 2020"
 summary: "Cases of COVID-19 in the 98 Danish municipalities in the fall of 2020."
 author: "Simon Grundt Straubinger"
 date: 2020-11-18
@@ -21,5 +21,3 @@ links:
 {{< figure src="plot_corona_line.png" title="👆 enlarge" lightbox="true" >}}
 
 {{< figure src="plot_corona_heat.png" title="👆 enlarge" lightbox="true" >}}
-
-{{< figure src="plot_corona_scatter.png" title="👆 enlarge" lightbox="true" >}}
