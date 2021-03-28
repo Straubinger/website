@@ -22,4 +22,4 @@ links:
 #tags: ["R Markdown", "plot", "regression"]
 ---
 
-{{< figure src="plot_corona_deaths.png" title="👆 enlarge" lightbox="true" >}}
+{{< figure src="plot_corona_eu_deaths.png" title="👆 enlarge" lightbox="true" >}}
