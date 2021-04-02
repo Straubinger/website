@@ -11,7 +11,7 @@ links:
    icon_pack: fab
    icon: github
  - name: data
-   url: https://statistikbanken.kk.dk/
+   url: https://kk.statistikbank.dk/
    icon_pack: fa
    icon: file-csv
 #categories: ["R"]

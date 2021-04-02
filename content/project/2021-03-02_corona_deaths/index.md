@@ -7,7 +7,7 @@ image:
   preview_only: true
 links:
  - name: code
-   url: https://github.com/Straubinger/dataviz/blob/master/07_corona_deaths/corona_deaths.R
+   url: https://github.com/Straubinger/dataviz/blob/master/07_corona_eu_deaths/corona_eu_deaths.R
    icon_pack: fab
    icon: github
  - name: data
