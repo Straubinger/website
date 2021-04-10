@@ -15,9 +15,9 @@ links:
    icon_pack: fa
    icon: file-csv
  - name: inspiration
-   url: https://twitter.com/nytimes/status/1363498989652426754?s=19
-   icon_pack: fab
-   icon: twitter
+   url: https://www.nytimes.com/2021/02/21/insider/covid-500k-front-page.html
+#   icon_pack: fab
+#   icon: twitter
 #categories: ["R"]
 #tags: ["R Markdown", "plot", "regression"]
 ---
